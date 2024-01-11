@@ -8529,7 +8529,7 @@ packages:
 
   /ts-api-utils@1.0.1(typescript@5.2.2):
     resolution: {integrity: sha512-lC/RGlPmwdrIBFTX59wwNzqh7aR2otPNPR/5brHZm/XKFYKsfqxihXUe9pU3JI+3vGkl+vyCoNNnPhJn3aLK1A==}
-    engines: {node: '>=16.13.0'}
+    engines: {node: '>=16.14.0'}
     peerDependencies:
       typescript: '>=4.2.0'
     dependencies:

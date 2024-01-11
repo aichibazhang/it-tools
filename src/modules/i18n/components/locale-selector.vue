@@ -4,9 +4,6 @@ const { availableLocales, locale } = useI18n();
 const localesLong: Record<string, string> = {
   en: 'English',
   es: 'Español',
-  fr: 'Français',
-  pt: 'Português',
-  ru: 'Русский',
   zh: '中文',
 };
 
